@@ -1,8 +1,40 @@
 {
- "products":[
-   {
-     "name": "Tree Sampling",
-     "cost": 23
-   }
- ]
+  "products": [
+    {
+      "id": 1,
+      "name": "NFT System",
+      "description": "NFT System",
+      "price": 14500,
+      "image":"https://amhydro.com/wp-content/uploads/2021/06/AmHydro-June21-71-1536x1025.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Vine Corp System",
+      "description": "Vine Corp System",
+      "price": 200000,
+      "image":"https://amhydro.com/wp-content/uploads/2021/06/vine-crops-hydro-8-1536x1025.jpg"
+    },
+    {
+      "id": 3,
+      "name":"Propogation System",
+      "description": "Propogation System",
+      "price": 230000,
+      "image":"https://amhydro.com/wp-content/uploads/2021/06/AmHydro-June21-Vine-crops-46-1536x1025.jpg"
+    },
+    {
+      "id":4,
+      "name":"Seedling System",
+      "description": "Seedling System",
+      "price": 250000,
+      "image":"https://thereidhomestead.com/wp-content/uploads/2019/02/19newtomatotransplantsingreenhouse2.jpg"
+    },
+    {
+      "id":5,
+      "name":"Medicinal Planting System",
+      "description": "Medicinal Planting System",
+      "price": 280000,
+      "image":"https://amhydro.com/wp-content/uploads/2021/06/amhydro-medicinal-cannabis-hydroponic-growing-1536x1070.jpg"
+    }
+
+  ]
 }
